@@ -1,2 +1,7 @@
-This is just a sample file.
-This is the second line in the same file.
+package com.test;
+
+public class Helloworld{
+	public static void main(String... arg) {
+		System.out.println("Helloworld");
+	}
+}
